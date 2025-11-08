@@ -26,6 +26,7 @@ This project shows a complete data analytics workflow — from raw data to busin
 
 ## 📊 Jupyter Notebook Files
 
-!(Images/Img6.png)
-!(Images/Img7.png)
+![ 1](Images/Img6.png)
+![ 2](Images/Img7.png)
+
 
